@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chetanjagadeesh
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, Data storytelling, Data Visualization.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me : chetanjagadeesh@outlook.com
