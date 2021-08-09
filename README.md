@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Chetan Jagadeesh
+### 👋 Hi, I’m Chetan Jagadeesh
 
 <!---
 Chetanjagadeesh/Chetanjagadeesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +31,10 @@ Glad to see you here! I am an aspiring data analyst who enjoys connecting the do
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me : chetanjagadeesh@outlook.com
+
+### Languages and Tools:
+
+
 
 
 
