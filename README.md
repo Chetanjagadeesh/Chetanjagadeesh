@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Chetanjagadeesh" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white />
 </a>
-<a href="https://public.tableau.com/profile/chetanjagadeesh" target="_blank">
+<a href="https://public.tableau.com/profile/chetan.jagadeesh" target="_blank">
 <img src=https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white />
 </a>
 <a href="https://chetanjagadeesh.me/" target="_blank">
