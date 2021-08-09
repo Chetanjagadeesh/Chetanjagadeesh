@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white />
 </a>
 <a href="https://chetanjagadeesh.me/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-minji--mia.com-brightgreen?style=for-the-badge&logoColor=white />
+<img src=https://img.shields.io/badge/Portfolio-chetanjagadeesh.me-brightgreen?style=for-the-badge&logoColor=white />
 </a>
 <a href="mailto:chetanjagadeesh@outlook.com">
 <img src=https://img.shields.io/badge/Gmail-minjikim.cs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white />
