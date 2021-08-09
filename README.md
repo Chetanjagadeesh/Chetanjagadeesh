@@ -32,7 +32,7 @@ Glad to see you here! I am an aspiring data analyst who enjoys connecting the do
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me : chetanjagadeesh@outlook.com
 
-### Languages and Tools:
+
 
 
 
